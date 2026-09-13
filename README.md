@@ -30,7 +30,7 @@ Ecommerce-react-spring-boot/
 
 ### Backend
 - Spring Boot, Spring Security, JWT
-- Java Mail Sender
+- JavaMailSender
 - MySQL (JPA/Hibernate)
 
 ### Frontend

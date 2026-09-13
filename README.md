@@ -210,16 +210,6 @@ mvn package
 
 ---
 
-## 📸 Screenshots
-
-### Homepage
-![Homepage](assets/images/homepage.png)
-
-### Login Page
-![Login](assets/images/login.png):
-
----
-
 ## 🔐 Security Notes
 
 - Store secrets in environment variables or a vault (never commit keys).
